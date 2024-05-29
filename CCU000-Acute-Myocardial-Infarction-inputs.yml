@@ -1,0 +1,87 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-following---secondary.py
+inputModule3:
+  class: File
+  path: python/subsequent-ccu000-acute-myocardial-infarction-ami---secondary.py
+inputModule4:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami---secondary.py
+inputModule5:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-dressler's---secondary.py
+inputModule6:
+  class: File
+  path: python/infarction---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-inferoposterior---secondary.py
+inputModule8:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-cardiac---secondary.py
+inputModule9:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-history---secondary.py
+inputModule10:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-anterior---secondary.py
+inputModule11:
+  class: File
+  path: python/septal-ccu000-acute-myocardial-infarction-ami---secondary.py
+inputModule12:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-defect---secondary.py
+inputModule13:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-artery---secondary.py
+inputModule14:
+  class: File
+  path: python/inferolateral-ccu000-acute-myocardial-infarction-ami---secondary.py
+inputModule15:
+  class: File
+  path: python/atrial-ccu000-acute-myocardial-infarction-ami---secondary.py
+inputModule16:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-elevation---secondary.py
+inputModule17:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-nonst---secondary.py
+inputModule18:
+  class: File
+  path: python/subendocardial-ccu000-acute-myocardial-infarction-ami---secondary.py
+inputModule19:
+  class: File
+  path: python/coronary-ccu000-acute-myocardial-infarction-ami---secondary.py
+inputModule20:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-complication---secondary.py
+inputModule21:
+  class: File
+  path: python/anterolateral-ccu000-acute-myocardial-infarction-ami---secondary.py
+inputModule22:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-inferior---secondary.py
+inputModule23:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-muscle---secondary.py
+inputModule24:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-thrombosis---secondary.py
+inputModule25:
+  class: File
+  path: python/transmural-ccu000-acute-myocardial-infarction-ami---secondary.py
+inputModule26:
+  class: File
+  path: python/ccu000-acute-myocardial-infarction-ami-rupture---secondary.py
+inputModule27:
+  class: File
+  path: python/postoperative-ccu000-acute-myocardial-infarction-ami---secondary.py
+inputModule28:
+  class: File
+  path: python/output-cases.py
